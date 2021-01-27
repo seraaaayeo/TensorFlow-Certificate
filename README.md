@@ -7,6 +7,9 @@
 * [Course3 : Natural Language Processing in Tensorflow](https://github.com/seraaaayeo/TF-Certificate/tree/master/C3-NLP_in_Tensorflow)
 * [Course4 : Sequence, Time Series and Prediction](https://github.com/seraaaayeo/TF-Certificate/tree/master/C4-Time_Series)
 
+### [Review](https://github.com/seraaaayeo/TF-Certificate/tree/master/Review)
+Lecture review and practice important topic
+
 ***
 
 ### Exercise(Assignments)
@@ -32,5 +35,3 @@
 * 
 
 
-### [Review](https://github.com/seraaaayeo/TF-Certificate/tree/master/Review)
-Lecture review and practice important topic
